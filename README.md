@@ -14,3 +14,5 @@ WHEN I review the way the app extracts state data from the store
 THEN I find that the app uses Redux instead of the Context API
 WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
+
+![Uploading image.png…]()
