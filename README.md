@@ -15,4 +15,4 @@ THEN I find that the app uses Redux instead of the Context API
 WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/87097621/147965271-9ffdd5c2-b73f-434e-aaa8-b8fe5b5556df.png)
